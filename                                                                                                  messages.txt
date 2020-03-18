@@ -1,0 +1,12 @@
+>17/03/20 // 11H
+EM - Bonjour, si nous sommes connectés, nous pouvons discuter dans ce fichier en cas de besoin ou laisser des questions d'une connection à l'autre...
+CC - Bien reçu.
+EM - Parfait, bonne continuation, à bientôt...
+CC - Egalement, +.
+EM - Et Florian il est muet ?
+CC - Voir "Florian est inutile" dans serveur.py ..
+EM - Mais il peut quand même réagir ici, Non ?
+FM - Oui je peux
+EM - Super les gars, posez vos questions ici en cas de besoin, à bientôt.
+FM / CC - D'accord, bonne journée
+EM - Bonne journée également...
